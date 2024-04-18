@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+video_FCC62D55_F0D8_5303_41E1_06C152CD9C4D.label = Godzilla x Kong_ The New Empire _ Official Trailer 2 (1)
+panorama_FC76B9F1_F0D8_7303_41E7_D1053740EDA0.label = Pano_1
+
+### Video
+videolevel_E1E3CFA3_F0D8_CF07_41E7_166CDCC6D3AB.url = media/video_FCC62D55_F0D8_5303_41E1_06C152CD9C4D_en.mp4
+videolevel_E1E3CFA3_F0D8_CF07_41E7_166CDCC6D3AB.posterURL = media/video_FCC62D55_F0D8_5303_41E1_06C152CD9C4D_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
